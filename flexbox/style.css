@@ -1,0 +1,10 @@
+.list {
+  list-style: none;
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  flex-direction: column;
+}
+.list > li {
+  border: 1px solid black;
+}
