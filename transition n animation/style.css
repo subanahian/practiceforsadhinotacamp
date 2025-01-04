@@ -1,0 +1,13 @@
+.btn {
+  width: 500px;
+  height: 100px;
+  background-color: aquamarine;
+  color: black;
+  border: none;
+  transition-timing-function: linear;
+}
+.btn:hover {
+  width: 700px;
+  background-color: cornflowerblue;
+  color: aliceblue;
+}
