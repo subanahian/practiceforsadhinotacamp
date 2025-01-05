@@ -1,0 +1,42 @@
+.btn {
+  padding: 30px 20px;
+  background-color: rgb(4, 74, 74);
+  color: rgb(237, 237, 228);
+  font-weight: 600;
+  border: 6px;
+}
+.btn:hover {
+  background-color: brown;
+}
+.btn2 {
+  padding: 40px 50px;
+  background-color: black;
+  color: azure;
+  font-weight: 600;
+  border: 5px;
+}
+ul li {
+  font-size: 2 rem;
+  font-weight: 600;
+}
+ul li:first-child {
+  color: chartreuse;
+}
+ul li:last-child {
+  color: aqua;
+}
+input:required {
+  border: 2px solid purple;
+}
+div:empty {
+  height: 100px;
+  width: 100px;
+  background-color: burlywood;
+}
+
+p::after {
+  content: "🙂";
+}
+p::before {
+  content: "🙂";
+}
