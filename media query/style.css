@@ -1,0 +1,20 @@
+div {
+  background-color: burlywood;
+}
+p {
+  color: rgb(212, 111, 131);
+}
+@media only screen (max-width: 500px) {
+  div {
+    background-color: cornflowerblue;
+  }
+}
+@media only screen (max-width: 800px) {
+    background-color:;
+}
+@media only screen (max-width: 1000px) {
+    div {
+      
+      background color:
+    }
+ 
