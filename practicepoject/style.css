@@ -3,3 +3,16 @@
   margin: 0;
   box-sizing: border-box;
 }
+:root {
+  --primary-color: rgb(143, 143, 227);
+  --secondary-color: var(--secondary-color);
+}
+
+.firstone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #ffffff;
+}
