@@ -1,0 +1,14 @@
+h1 {
+  background-color: cyan;
+  color: blue;
+}
+p {
+  color: black;
+  background-color: red;
+}
+button {
+  color: brown;
+}
+body {
+  background-color: rgb(139, 132, 132);
+}
