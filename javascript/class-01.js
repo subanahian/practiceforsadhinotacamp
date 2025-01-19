@@ -1,4 +1,4 @@
-console.log("hello world");
+//console.log("hello world");
 var coffeQty = 1000;
 var coffeQty = 1000500;
 console.log(coffeQty);
@@ -16,9 +16,15 @@ x *= 5;
 console.log(x);
 var y = 10;
 y /= 5;
-close.log(y);
+console.log(y);
 var teaQnt = 100;
 var preTeaQnt = teaQnt;
 teaQnt = teaQnt * 500;
 console.log("Before tea: ", preTeaQnt);
 console.log("After tea: ", teaQnt);
+
+var pocketTk = 60;
+var fuckaTk = 50;
+if (pocketTk > fuckaTk) {
+  console.log("fucka khabo");
+}
