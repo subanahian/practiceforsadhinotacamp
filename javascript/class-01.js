@@ -28,3 +28,10 @@ var fuckaTk = 50;
 if (pocketTk > fuckaTk) {
   console.log("fucka khabo");
 }
+var pocketrTk = 400;
+var fuckarTk = 500;
+if (pocketrTk > fuckarTk) {
+  console.log("fucka khabo");
+} else {
+  console.log("fucka khabona");
+}
