@@ -55,3 +55,17 @@ if (
 } else {
   console.log("Consonant");
 }
+
+//time
+var time = 12;
+if (time >= 0 && time <= 11) {
+  console.log("Good Morning");
+} else if (time >= 12 && time <= 17) {
+  console.log("Good Afternoon");
+} else if (time >= 18 && time <= 21) {
+  console.log("Good Evening");
+} else if (time >= 22 && time <= 23) {
+  console.log("Good Night");
+} else {
+  console.log("Invalid time");
+}
