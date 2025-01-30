@@ -69,3 +69,12 @@ if (time >= 0 && time <= 11) {
 } else {
   console.log("Invalid time");
 }
+//
+var username = admin;
+var password = 1234;
+
+if (username === "admin" && password === "1234") {
+  console.log("Login Successful");
+} else {
+  console.log("Invalid Credentials");
+}
