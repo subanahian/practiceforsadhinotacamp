@@ -78,3 +78,18 @@ if (username === "admin" && password === "1234") {
 } else {
   console.log("Invalid Credentials");
 }
+
+//prob
+
+var letter = a;
+if (
+  letter === "a" ||
+  letter === "e" ||
+  letter === "i" ||
+  letter === "o" ||
+  letter === "u"
+) {
+  console.log("Vowel");
+} else {
+  console.log("Consonant");
+}
