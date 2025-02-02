@@ -1,3 +1,4 @@
+/*
 //console.log("hello world");
 var coffeQty = 1000;
 var coffeQty = 1000500;
@@ -109,3 +110,6 @@ let sumOfNum = function (val) {
   });
   return sum;
 };
+*/
+var springCard = ["book", "html", "css"];
+console.log(springCard);
