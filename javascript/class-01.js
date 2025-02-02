@@ -98,3 +98,14 @@ function add(a, b) {
   return a + b;
 }
 console.log(add(a, b));
+
+//array
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+let sumOfNum = function (val) {
+  let sum = 0;
+  val.forEach(function (elem) {
+    sum += elem;
+  });
+  return sum;
+};
