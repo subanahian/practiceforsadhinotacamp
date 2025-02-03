@@ -114,3 +114,13 @@ let sumOfNum = function (val) {
 var shoppingCard = ["book", "html", "css"];
 console.log(shoppingCard);
 console.log(`There are ${shoppingCard.length} iteam in shopping card`);
+
+//function
+function bigNum(num, num1) {
+  if (num > num1) {
+    return num;
+  } else if (num1 > num) {
+    return num1;
+  }
+}
+console.log(bigNum(15, 40));
