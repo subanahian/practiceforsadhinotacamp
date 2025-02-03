@@ -111,5 +111,6 @@ let sumOfNum = function (val) {
   return sum;
 };
 */
-var springCard = ["book", "html", "css"];
-console.log(springCard);
+var shoppingCard = ["book", "html", "css"];
+console.log(shoppingCard);
+console.log(`There are ${shoppingCard.length} iteam in shopping card`);
