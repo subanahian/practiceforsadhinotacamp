@@ -124,3 +124,8 @@ function bigNum(num, num1) {
   }
 }
 console.log(bigNum(15, 40));
+
+//array
+const numbers = [1, 2, 3, 4];
+const doubledNumbers = numbers.map((num) => num * 2);
+console.log(doubledNumbers);
