@@ -43,7 +43,7 @@ console.log("####");
 console.log("#####");
 
 //letter-check
-let letter = a;
+let letter = e;
 
 if (
   letter === "a" ||
