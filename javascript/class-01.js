@@ -36,7 +36,7 @@ if (pocketTk > fuckaTk) {
 //} else {
 // console.log("fucka khabona");
 //}
-console.log("#");
+console.log("###");
 
 //letter-check
 let letter = e;
