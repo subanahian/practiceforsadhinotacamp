@@ -39,7 +39,7 @@ if (pocketTk > fuckaTk) {
 console.log("##");
 
 //letter-check
-let letter = e;
+let letter = b;
 
 if (
   letter === "a" ||
